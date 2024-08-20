@@ -1,0 +1,20 @@
+package Convert;
+
+public class Colour {
+
+	public static void main(String[] args) {
+		String str="RRRGGGBBB";
+		//rgb,gbr,brg,bgr,grb,
+		if(str.contains("rbg")||str.contains("rgb")||str.contains("gbr")||str.contains("brg")||str.contains("grb"))
+				{
+			System.out.println("B&W");
+				}
+		else
+		{
+			System.out.println("color");
+		}
+		
+
+	}
+
+}
