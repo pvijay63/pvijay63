@@ -7,7 +7,7 @@ public class Colour {
 		//rgb,gbr,brg,bgr,grb,
 		if(str.contains("rbg")||str.contains("rgb")||str.contains("gbr")||str.contains("brg")||str.contains("grb"))
 				{
-			System.out.println("B&W");
+			System.out.println("Black&White");
 				}
 		else
 		{
