@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cyber Attacks<br>👯 I’m looking to collaborate on white Hackers<br>🤝 I’m looking for help with Phishing Attacks<br>🌱 I’m currently learning Cyber security<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Cyber Attacks<br>👯 I’m  learning ethical hacking tools and their functions <br>🤝 I’m looking for help with Phishing Attacks<br>🌱 I’m currently learning Cyber security<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
