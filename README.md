@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  building websites<br>👯 I’m  learning web technologies,cyber security attacks and tools and their functions <br>🤝 I’m looking for help in collaboration with my website development<br>🌱 I’m currently learning  html ,css and javascript and sql(oracle,mysql)<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on  building websites and along with Handling Vulnerabilities while creating through JS<br>👯 I’m  learning web technologies,cyber security attacks and tools and their functions <br>🤝 I’m looking for help in collaboration with my website development<br>🌱 I’m currently learning  html ,css and javascript and sql(oracle,mysql)<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
