@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  building websites and along with Handling Vulnerabilities along with  Java programming language
+🔭 I’m currently working on  building websites and along with Handling Vulnerabilities along with  Java , Python ,javascript etc..,
 <br>👯 I’m  learning web technologies,cyber security attacks and tools and their functions <br>🤝 I’m looking for help in collaboration with my website development<br>🌱 I’m currently learning  html ,css and javascript and sql(oracle,mysql)<br>💬 Ask me about<br>⚡ Fun fact   "If your not enjoying what you do then do it in different way but don't stop until reach your goal"
 
 
